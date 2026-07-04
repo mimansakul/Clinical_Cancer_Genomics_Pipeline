@@ -24,7 +24,7 @@ D --> E[Driver Gene Detection]
 
 E --> F[Clinical Evidence Integration]
 
-F --> G[Educational AMP Tiering]
+F --> G[Evidence-based AMP/ASCO/CAP Tier Assignment]
 
 G --> H[Clinical Interpretation]
 
