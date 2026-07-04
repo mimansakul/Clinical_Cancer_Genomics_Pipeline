@@ -231,7 +231,7 @@ Clinical_Cancer_Genomics_Pipeline/
 
 ```
 
-## 📊 Example Results
+##  Example Results
 
 ### Dataset
 
