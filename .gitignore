@@ -1,7 +1,27 @@
+# Data
+data/raw/
+data/maf/
+data/vcf/
+data/annotation/
+data/filtered/
+
+# Results
+results/
+
+# Figures
+figures/
+
+# Reports
+reports/final/*.pdf
+reports/final/*.html
+
+# Python
 __pycache__/
 *.pyc
-*.tar.gz
-*.log
+
+# Jupyter
 .ipynb_checkpoints/
-*.maf.gz
-GDCdata/
+
+# OS
+.DS_Store
+Thumbs.db
