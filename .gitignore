@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tar.gz
+*.log
+.ipynb_checkpoints/
+*.maf.gz
+GDCdata/
