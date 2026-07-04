@@ -231,4 +231,44 @@ Clinical_Cancer_Genomics_Pipeline/
 
 ```
 
+## Example Results
+
+Dataset
+• TCGA Breast Cancer (TCGA-BRCA)
+
+QC Summary
+• Variants analysed: 48
+• Genes affected: 48
+• SNPs: 47
+• Deletions: 1
+
+Driver Genes Identified
+• TP53
+• PIK3CA
+
+Clinical Evidence Sources
+• COSMIC
+• ClinVar
+• CIViC
+
+Generated Outputs
+• QC summaries
+• Driver gene table
+• AMP tier assignments
+• Clinical interpretation report
+
+Limitations
+
+• Demonstration pipeline using public TCGA data.
+• AMP classifications are educational examples.
+• No patient-identifiable information.
+• Not intended for clinical decision making.
+
+Future Work
+
+• Integrate OncoKB API
+• Add IGV screenshot generation
+• Support multi-sample cohorts
+• Incorporate CNV and fusion analysis
+• Containerize with Docker
 
