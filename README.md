@@ -310,7 +310,7 @@ Clinical_Cancer_Genomics_Pipeline/
 >
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 | Aspect | Description |
 |--------|-------------|
@@ -323,7 +323,7 @@ Clinical_Cancer_Genomics_Pipeline/
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 | Planned Feature | Objective |
 |----------------|-----------|
